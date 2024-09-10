@@ -14,5 +14,9 @@ public class BiodataKelompok {
         System.out.println("Nama  : Mokhamad Rizki Hadiono Singgih");
         System.out.println("NIM   : 244107020198");
         System.out.println("Kelas : 1F");
+
+        System.out.println("Nama saya Nabhan Rizqi Julian Saputro");
+        System.out.println("Kelas 1F TI");
+        System.out.println("Mahasiswa Politeknik Negeri Malang ");
     }
 }
