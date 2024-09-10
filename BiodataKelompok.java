@@ -17,6 +17,6 @@ public class BiodataKelompok {
 
         System.out.println("Nama saya Nabhan Rizqi Julian Saputro");
         System.out.println("Kelas 1F TI");
-        System.out.println("Mahasiswa Politeknik Negeri Malang ");
+        System.out.println("Mahasiswa Politeknik Negeri Malang");
     }
 }
